@@ -1,0 +1,74 @@
+/*style body*/
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color:rgb(34, 34, 240) ;
+}
+/*style header*/
+header {
+   background-color: dodgerblue;
+   color: rosybrown;
+   padding: 20px;
+   text-align: center;
+}
+   
+/*style*/
+header {
+     background-color: dodgerblue;
+     color: darkblue;
+     padding: 20px;
+     text-align: center;
+
+}
+
+/*style nav ul*/
+nav ul {
+   list-style: none;
+   padding: 0;
+}
+/*style nav ul li*/
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+/*style nav ul li a*/
+nav ul li a {
+color: white;
+text-decoration: none;
+}
+
+/*style section*/
+section {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   padding: 20px;
+   background-color: lemonchiffon;
+   margin: 20px;
+   border-radius: 10px;
+}
+
+/*style footer*/
+footer {
+   text-align: center;
+   padding: 10px;
+   background-color: cadetblue;
+}
+
+/*style nover link menu*/
+a:link, a:visited {
+   background-color: white;
+   color: black;
+   border: 1px solid green;
+   padding: 10px 15px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+}
+
+a:hover, a:active {
+   background-color: green;
+   color: white;
+}
+
+
